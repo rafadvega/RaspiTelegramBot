@@ -1,0 +1,4 @@
+hola - Saluda a Raspi
+startvnc - inicia un escritorio vnc
+plex - Interacción servidor plex
+samba - Interacción servidor samba
